@@ -59,27 +59,30 @@
 ---
 
 ## Структура на проекта
+## Структура на проекта
+
+```text
 Discord/
 │
 ├── SQL/
-│ ├── 1-Initialization.sql
-│ ├── 2-Functions.sql
-│ ├── 3-Procedures.sql
-│ ├── 4-Triggers.sql
-│ ├── 5-Insert_Data.sql
-│ ├── 6-DemoQueries.sql
-│ └── SQLdocumentation.docx
+│   ├── 1-Initialization.sql
+│   ├── 2-Functions.sql
+│   ├── 3-Procedures.sql
+│   ├── 4-Triggers.sql
+│   ├── 5-Insert_Data.sql
+│   ├── 6-DemoQueries.sql
+│   └── SQLdocumentation.docx
 │
 ├── Discord-model-diagrams/
-│ ├── Conceptual.drawio
-│ ├── Conceptual.png
-│ ├── Logical.drawio
-│ ├── Logical.png
-│ ├── Physical.drawio
-│ ├── Physical.png
-│ ├── DWH.drawio
-│ └── DWH.png
+│   ├── Conceptual.drawio
+│   ├── Conceptual.png
+│   ├── Logical.drawio
+│   ├── Logical.png
+│   ├── Physical.drawio
+│   ├── Physical.png
+│   ├── DWH.drawio
+│   └── DWH.png
 │
 └── Power BI/
-├── Discord-PBI.pbix
-└── Screenshots/
+    ├── Discord-PBI.pbix
+    └── Screenshots/
